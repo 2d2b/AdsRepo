@@ -1,0 +1,16 @@
+{
+  "ads": [
+    {
+      "order": 1,
+      "package_id": "com.happylion.surpriseegg",
+      "icon": "https://github.com/2d2b/AdsRepo/PromoImages/KinderRu.jpg",
+      "name": "Surprise Egg"
+    },
+    {
+      "order": 2,
+      "package_id": "com.twodtwob.relaxdots",
+      "icon": "https://github.com/2d2b/AdsRepo/PromoImages/KinderRu.jpg",
+      "name": "Dots Flipper"
+    }
+  ]
+}
